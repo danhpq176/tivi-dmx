@@ -171,7 +171,7 @@ export const Home = () => {
 							chữa tivi của các khách hàng một cách nhanh chóng và tiện lợi.
 						</li>
 						<li>
-							<h1>Hotline: 0818002026</h1>
+							<h1>Hotline: 02822432939</h1>
 						</li>
 					</ul>
 				</div>
@@ -252,7 +252,7 @@ export const Home = () => {
 						LIÊN HỆ NGAY VỚI TRUNG TÂM ĐIỆN MÁY XANH KHI THIẾT BỊ CỦA BẠN GẶP SỰ CỐ
 					</span>
 					<div className='hotline'>
-						<span>Hotline: 0818002026</span>
+						<span>Hotline: 02822432939</span>
 					</div>
 					<div className='location'>
 						<div className='left'>
